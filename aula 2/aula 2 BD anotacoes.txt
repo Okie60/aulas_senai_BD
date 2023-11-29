@@ -1,0 +1,8 @@
+pk = id primário
+
+fk = id duplo(preciso lembrar o nome em especifico)
+
+requisitos de dados -> projeto conceitual -> projeto lógico - projeto fisico
+
+site para fazer diagramas
+https://app.diagrams.net/
