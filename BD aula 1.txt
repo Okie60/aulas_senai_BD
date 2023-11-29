@@ -1,0 +1,35 @@
+BD = banco de dados (meio auto-explicativo);
+
+SGBD(Sistema de Gerenciamento de Banco de Dados) = maria DB (transição entre usuário e sevidor/armazenamento);
+
+Catálogo = metadados(informação dos dados);
+
+
+
+
+
+SA1
+DER(Diagrama, Entidade, Relacionamento):
+D - representação gráfica de um processo;
+E - tabela(estilo planilia do exel);
+R - conectividade entre tabelas(classes e tipagem);
+
+
+para o DER
+
+diagrama = conectar tudo
+entidade = quadrado
+relacionamento = losangulo
+
+
+
+cardinalidade:
+1 para 1
+1 para n
+n para n
+minimo para máximo
+
+
+ex de DER
+Sala -(0,n)--- reserva ---(0,1)- pessoa
+quadrado ----- losangulo ------- quadrado
