@@ -1,0 +1,14 @@
+pk = primarie key
+fk = foreign key
+
+query -> consulta;
+db
+
+
+
+sql {
+	ddl = criação de dados;
+	dml = manipulação;
+	dcl = controle de dados;
+	dql = consulta de dados;
+}
